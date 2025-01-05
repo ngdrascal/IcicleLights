@@ -1,0 +1,236 @@
+(footprint "PHOENIX - TERM BLK 2P SIDE ENT 5.08MM PCB"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3.175 -9.135 0)
+		(layer "F.SilkS")
+		(uuid "6044234f-e640-4712-9e14-843ac169d097")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PHOENIX - TERM BLK 2P SIDE ENT 5.08MM PCB"
+		(at 9.525 1.115 0)
+		(layer "F.Fab")
+		(uuid "70cf2fe3-e3d6-4f1c-9152-cdc33a7e4933")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4669aa87-f22f-496e-b9f8-ce59165a6e5d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "21b2752f-10e6-46d9-af47-328fb2b92309")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "TERM BLK 2P SIDE ENT 5.08MM PCB"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "837edf3d-b729-4f17-9143-72cb23740ba5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -8.15)
+		(end 0 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "71360882-0f9b-41ed-ad00-c3ea23fd326e")
+	)
+	(fp_line
+		(start 0 0)
+		(end 10.16 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a0e24631-6f3a-4f2d-82cc-d439b7b3779a")
+	)
+	(fp_line
+		(start 10.16 -8.15)
+		(end 0 -8.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "637bcc80-aa88-4cd8-9bf0-4b95a7709c6b")
+	)
+	(fp_line
+		(start 10.16 0)
+		(end 10.16 -8.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a3247307-9910-476b-82c1-ada7df258b05")
+	)
+	(fp_circle
+		(center -1.1 -4.05)
+		(end -1 -4.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "f701eb38-290c-41a8-8330-53d728a840be")
+	)
+	(fp_line
+		(start -0.82 -8.4)
+		(end -0.82 0.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "31479f84-6f06-45d5-a5ba-7c06a98d6921")
+	)
+	(fp_line
+		(start -0.82 0.25)
+		(end 10.41 0.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5e2caa7e-a7d9-4cab-83f7-ccae564fdb18")
+	)
+	(fp_line
+		(start 10.41 -8.4)
+		(end -0.82 -8.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "aef4e283-cb8f-4123-be5a-e6bdad53673e")
+	)
+	(fp_line
+		(start 10.41 0.25)
+		(end 10.41 -8.4)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c246e6cd-e24b-4889-8ade-39bb9ed05496")
+	)
+	(fp_line
+		(start 0 -8.15)
+		(end 0 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c372e2e8-c657-423a-89c9-4a9c0546ae4a")
+	)
+	(fp_line
+		(start 0 0)
+		(end 10.16 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9c48fc51-8ee5-42f1-aced-ecc95b797c47")
+	)
+	(fp_line
+		(start 10.16 -8.15)
+		(end 0 -8.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "83649f96-8d72-427d-8cf9-d78988d8271c")
+	)
+	(fp_line
+		(start 10.16 0)
+		(end 10.16 -8.15)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6dfa39ae-ccf4-42ea-af28-7b0a28bf6091")
+	)
+	(fp_circle
+		(center -1.1 -4.05)
+		(end -1 -4.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "504276ba-c4e2-4a8f-b3a9-038005d1bb3a")
+	)
+	(pad "1" thru_hole rect
+		(at 2.54 -4.05)
+		(size 1.95 1.95)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a80f868a-4867-4dea-a97f-fb3930fa752d")
+	)
+	(pad "2" thru_hole circle
+		(at 7.62 -4.05)
+		(size 1.95 1.95)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "3ccb5014-3935-4ba5-af70-b42184bec14c")
+	)
+	(model "${KIPRJMOD}/3dmodels/PHOENIX - TERM BLK 2P SIDE ENT 5.08MM PCB.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
