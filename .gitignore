@@ -29,3 +29,19 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+ControllerRP2040Scorpio/ControllerRP2040Scorpio.kicad_pcb.zip
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-CuBottom.gbr
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-CuTop.gbr
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-EdgeCuts.gbr
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-MaskBottom.gbr
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-MaskTop.gbr
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-NPTH-drl_map.pdf
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-NPTH.drl
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-PasteBottom.gbr
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-PasteTop.gbr
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-PTH-drl_map.pdf
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-PTH.drl
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-SilkBottom.gbr
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-SilkTop.gbr
+ControllerRP2040Scorpio/nextpcb/gerber/ControllerRP2040Scorpio-VScore.gbr
+ControllerRP2040Scorpio/nextpcb/output_files/GERBER-ControllerRP2040Scorpio.zip
