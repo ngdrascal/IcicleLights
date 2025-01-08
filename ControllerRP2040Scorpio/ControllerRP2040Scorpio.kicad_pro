@@ -445,7 +445,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "MyTerminalBlocks"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -582,7 +584,7 @@
           "group_by": false,
           "label": "DigiKey Part",
           "name": "DigiKey Part",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -595,7 +597,7 @@
       "group_symbols": true,
       "name": "",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "DigiKey Part"
     },
     "connection_grid_size": 50.0,
     "drawing": {

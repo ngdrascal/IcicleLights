@@ -3034,7 +3034,7 @@
 				(hide yes)
 			)
 		)
-		(property "DigiKey Part" "https://www.digikey.com/en/products/detail/rubycon/25PX1000MEFCT810X16/3134863"
+		(property "DigiKey Part" "1189-1583-1-ND"
 			(at 109.22 123.19 0)
 			(effects
 				(font
@@ -3351,7 +3351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Default:PHOENIX - TERM BLK 2P SIDE ENT 5.08MM PCB"
+		(property "Footprint" "MyTerminalBlocks:PHOENIX - TERM BLK 2P SIDE ENT 5.08MM PCB"
 			(at 119.38 104.14 0)
 			(effects
 				(font
@@ -4027,7 +4027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PinSocket_1x16_Feather:PinSocket_1x16_P2.54mm_Vertical"
+		(property "Footprint" "MyFeatherPinSocket:PinSocket_1x16_P2.54mm_Vertical"
 			(at 153.67 106.68 0)
 			(effects
 				(font
@@ -4206,7 +4206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Default:PHOENIX - TERM BLK 2P SIDE ENT 5.08MM PCB"
+		(property "Footprint" "MyTerminalBlocks:PHOENIX - TERM BLK 2P SIDE ENT 5.08MM PCB"
 			(at 185.42 107.95 0)
 			(effects
 				(font
@@ -4215,7 +4215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.phoenixcontact.com/product/pdf/api/v1/MTcyOTEyOA?_realm=us&_locale=en-US&blocks=commercial-data%2Ctechnical-data%2Cdrawings%2Capprovals%2Cclassifications%2Cenvironmental-compliance-data%2Call-accessories"
 			(at 185.42 107.95 0)
 			(effects
 				(font
@@ -4286,7 +4286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PinSocket_1x12_Feather:PinSocket_1x12_P2.54mm_Vertical"
+		(property "Footprint" "MyFeatherPinSocket:PinSocket_1x12_P2.54mm_Vertical"
 			(at 157.48 111.76 0)
 			(effects
 				(font
