@@ -446,7 +446,8 @@
   },
   "libraries": {
     "pinned_footprint_libs": [
-      "MyTerminalBlocks"
+      "MyTerminalBlocks",
+      "MyFeatherPinSocket"
     ],
     "pinned_symbol_libs": []
   },
