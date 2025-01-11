@@ -452,7 +452,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "ControllerRP2040Scorpio.kicad_pro",
+    "filename": "LedStrandController.kicad_pro",
     "version": 1
   },
   "net_settings": {
