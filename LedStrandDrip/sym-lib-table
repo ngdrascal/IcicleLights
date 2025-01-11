@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PJ-102B")(type "KiCad")(uri "C:/myrepos/IcicleLights/share/kicad/symbols/PJ-102B.kicad_sym")(options "")(descr ""))
+)
