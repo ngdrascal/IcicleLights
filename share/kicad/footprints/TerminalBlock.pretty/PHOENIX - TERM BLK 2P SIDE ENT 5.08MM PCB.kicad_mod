@@ -222,7 +222,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "3ccb5014-3935-4ba5-af70-b42184bec14c")
 	)
-	(model "${KIPRJMOD}/3dmodels/PHOENIX - TERM BLK 2P SIDE ENT 5.08MM PCB.step"
+	(model "${KIPRJMOD}/../share/kicad/3dmodels/PHOENIX - TERM BLK 2P SIDE ENT 5.08MM PCB.step"
 		(offset
 			(xyz 0 0 0)
 		)
