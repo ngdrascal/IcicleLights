@@ -440,11 +440,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "MyTerminalBlock"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "LedStrandSplat.kicad_pro",
+    "filename": "LedDripStrand.kicad_pro",
     "version": 1
   },
   "net_settings": {
