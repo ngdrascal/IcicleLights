@@ -161,7 +161,7 @@
 		(property "Reference" ""
 			(at 0 0 0)
 			(layer "F.SilkS")
-			(uuid "06371c51-c8f1-4d41-b0b8-7a80bdd3b0b7")
+			(uuid "63864f28-3d36-4b15-af29-d871a1213574")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -172,7 +172,7 @@
 		(property "Value" ""
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "11928d79-1213-482f-b0c5-ea51a8010b8f")
+			(uuid "63b0c5af-1b80-4d93-b426-cafc2444ce74")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -221,7 +221,7 @@
 			(size 2.5 2.5)
 			(drill 2.54)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "7ef74da8-c3ad-498f-a121-e207c43fa368")
+			(uuid "e911aa20-c4a9-416d-96e1-dddb3fd00a71")
 		)
 	)
 	(footprint "MyTerminalBlock:PHOENIX - TERM BLK 2P SIDE ENT 5.08MM PCB"
@@ -749,7 +749,7 @@
 		(property "Reference" ""
 			(at 0 0 0)
 			(layer "F.SilkS")
-			(uuid "06371c51-c8f1-4d41-b0b8-7a80bdd3b0b7")
+			(uuid "4ec8a315-100f-468a-a8a5-d2cb1d2838ab")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -760,7 +760,7 @@
 		(property "Value" ""
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "11928d79-1213-482f-b0c5-ea51a8010b8f")
+			(uuid "700f2ce3-47db-4451-b072-8fc3364ee193")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -809,7 +809,7 @@
 			(size 2.5 2.5)
 			(drill 2.54)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "7ef74da8-c3ad-498f-a121-e207c43fa368")
+			(uuid "8e35c7ec-e9f8-43b1-b1c8-7063867fbd1c")
 		)
 	)
 	(footprint "MyTerminalBlock:PHOENIX - TERM BLK 3P SIDE ENT 5.08MM PCB"
@@ -817,7 +817,7 @@
 		(uuid "9cf258fe-2ea6-4bf4-b5e9-b839e7639958")
 		(at 160.02 93.98 180)
 		(property "Reference" "J3"
-			(at 3.175 -9.135 360)
+			(at 3.175 -9.135 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1aa4c637-0daa-4773-8dd1-15943e1317d6")
@@ -829,7 +829,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x03"
-			(at 9.525 1.115 360)
+			(at 9.525 1.115 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e289a91e-d268-414b-83da-6147f0704a2b")
@@ -841,7 +841,7 @@
 			)
 		)
 		(property "Footprint" "MyTerminalBlock:PHOENIX - TERM BLK 3P SIDE ENT 5.08MM PCB"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "008c9566-840f-4512-8893-54a1c6ba29c3")
@@ -853,7 +853,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "09869809-7aa4-4fa7-b0bb-d697892a0025")
@@ -865,7 +865,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "55da9218-fd37-41b8-8538-19e7ab024983")
@@ -1351,7 +1351,7 @@
 		(property "Reference" ""
 			(at 0 0 0)
 			(layer "F.SilkS")
-			(uuid "06371c51-c8f1-4d41-b0b8-7a80bdd3b0b7")
+			(uuid "f07b1d0a-1616-4944-9af6-10627c4fe090")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1362,7 +1362,7 @@
 		(property "Value" ""
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "11928d79-1213-482f-b0c5-ea51a8010b8f")
+			(uuid "aca5af51-59d5-49d0-b049-f6bacb51141a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1411,7 +1411,7 @@
 			(size 2.5 2.5)
 			(drill 2.54)
 			(layers "F&B.Cu" "*.Mask")
-			(uuid "7ef74da8-c3ad-498f-a121-e207c43fa368")
+			(uuid "bc5c4fac-ec54-4c6a-9cc4-057c13cf7b7d")
 		)
 	)
 	(footprint "Symbol:KiCad-Logo2_5mm_SilkScreen"
