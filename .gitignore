@@ -29,5 +29,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
-ControllerRP2040Scorpio/ControllerRP2040Scorpio.kicad_pcb.zip
-ControllerRP2040Scorpio/nextpcb/**
+
+docs/~*.~vsdx
